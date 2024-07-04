@@ -6,7 +6,6 @@ const  Tarea = () => {
 
         <>
 
-            <p>componete </p>
         
         </>
     );
